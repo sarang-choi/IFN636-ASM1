@@ -5,3 +5,4 @@
 // DRMP-8 Sub Task 2.1: Create a form component for casualty details.
 // DRMP-9 Sub Task 2.2: Connect the casualty record form to the backend API.
 // DRMP-10 Sub Task 2.3: Update and edit the casualty list.
+// DRMP-11 Sub Task 2.4: Save casualty list with the incident report.
