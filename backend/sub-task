@@ -27,3 +27,4 @@
 // DRMP-38 Sub Task 8.2: Show incoming updates on the screen.
 // DRMP-39 Sub Task 8.3: Send a notification when the connections is unstable or lost.
 // DRMP-44 Sub Task 9.1: Create a form to enter donation details.
+// DRMP-45 Sub Task 9.2: Show an error message if any required are empty.
