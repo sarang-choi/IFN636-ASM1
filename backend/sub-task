@@ -6,3 +6,5 @@
 // DRMP-9 Sub Task 2.2: Connect the casualty record form to the backend API.
 // DRMP-10 Sub Task 2.3: Update and edit the casualty list.
 // DRMP-11 Sub Task 2.4: Save casualty list with the incident report.
+// DRMP-12 Sub Task 3.1: Add an upload button for photos.
+// DRMP-15 Sub Task 3.2: Allow access to device storage or camera.
