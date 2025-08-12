@@ -32,3 +32,4 @@
 // DRMP-47 Sub Task 9.4: Connect the donation list to the backend API.
 // DRMP-49 Sub Task 10.1: Create a form to record where the donation was allocated.
 // DRMP-50 Sub Task 10.2: Update donation stock after allocation.
+// DRMP-51 Sub Task 10.3: Share allocated item details with the donor.
