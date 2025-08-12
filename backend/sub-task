@@ -9,3 +9,4 @@
 // DRMP-12 Sub Task 3.1: Add an upload button for photos.
 // DRMP-15 Sub Task 3.2: Allow access to device storage or camera.
 // DRMP-16 Sub Task 3.3: Limit file size to 10MB each.
+// DRMP-17 Sub Task 3.4: Save files with uploaded date and time.
