@@ -25,3 +25,4 @@
 // DRMP-40 Sub Task7.4: Push updated incident and resource data to clients.
 // DRMP-37 Sub Task 8.1: Connect the client to the live update server.
 // DRMP-38 Sub Task 8.2: Show incoming updates on the screen.
+// DRMP-39 Sub Task 8.3: Send a notification when the connections is unstable or lost.
