@@ -23,3 +23,4 @@
 // DRMP-34 Sub Task 7.2: Send a notification when incident or asset data changes.
 // DRMP-35 Sub Task 7.3: Restrict update access to authorised users.
 // DRMP-40 Sub Task7.4: Push updated incident and resource data to clients.
+// DRMP-37 Sub Task 8.1: Connect the client to the live update server.
