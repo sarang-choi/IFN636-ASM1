@@ -13,3 +13,4 @@
 // DRMP-22 Sub Task 4.1: Create a form component for asset registration.
 // DRMP-23 Sub Task 4.2: Add a dropdown menu for asset type and quantity.
 // DRMP-24 Sub Task 4.3: Connect the registration form to the backend API.
+// DRMP-25 Sub Task 5.1:  Record the assigned assets to each incident.
