@@ -17,3 +17,4 @@
 // DRMP-26 Sub Task 5.2: Update asset quantity and availability status.
 // DRMP-27 Sub Task 5.3: Show an error message if quantity exceeds availability.
 // DRMP-28 Sub Task 5.4: Predict required assets based on incident type.
+// DRMP-29 Sub Task 6.1: Add GPS location detection.
