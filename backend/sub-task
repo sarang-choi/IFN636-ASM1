@@ -14,3 +14,4 @@
 // DRMP-23 Sub Task 4.2: Add a dropdown menu for asset type and quantity.
 // DRMP-24 Sub Task 4.3: Connect the registration form to the backend API.
 // DRMP-25 Sub Task 5.1:  Record the assigned assets to each incident.
+// DRMP-26 Sub Task 5.2: Update asset quantity and availability status.
