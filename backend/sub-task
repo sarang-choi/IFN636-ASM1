@@ -11,3 +11,4 @@
 // DRMP-16 Sub Task 3.3: Limit file size to 10MB each.
 // DRMP-17 Sub Task 3.4: Save files with uploaded date and time.
 // DRMP-22 Sub Task 4.1: Create a form component for asset registration.
+// DRMP-23 Sub Task 4.2: Add a dropdown menu for asset type and quantity.
