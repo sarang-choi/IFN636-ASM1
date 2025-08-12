@@ -12,3 +12,4 @@
 // DRMP-17 Sub Task 3.4: Save files with uploaded date and time.
 // DRMP-22 Sub Task 4.1: Create a form component for asset registration.
 // DRMP-23 Sub Task 4.2: Add a dropdown menu for asset type and quantity.
+// DRMP-24 Sub Task 4.3: Connect the registration form to the backend API.
