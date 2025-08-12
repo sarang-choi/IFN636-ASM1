@@ -21,3 +21,4 @@
 // DRMP-30 Sub Task 6.2: Update asset location in real-time.
 // DRMP-33 Sub Task 7.1: Create a server function to send updates.
 // DRMP-34 Sub Task 7.2: Send a notification when incident or asset data changes.
+// DRMP-35 Sub Task 7.3: Restrict update access to authorised users.
