@@ -1,0 +1,26 @@
+name: CI-Lite
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  verify:
+    runs-on: [self-hosted, Linux, X64]
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Show runner info
+        run: |
+          df -h
+          whoami
+          uname -a
+
+      - name: Check deployment health
+        run: |
+          pm2 status || true
+          echo "Frontend:" && curl -sI http://127.0.0.1:3000 | head -n 1
+          echo "Backend :" && curl -sI http://127.0.0.1:5001 | head -n 1 || true
+
+      - name: Success marker
+        run: echo "CI lite succeeded"
