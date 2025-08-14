@@ -1,0 +1,37 @@
+// DRMP-3 Sub Task 1.1: Create the incident report form component.
+// DRMP-4 Sub Task 1.2: Add GPS location detection.
+// DRMP-5 Sub Task 1.3: Implement successful and error handling.
+// DRMP-8 Sub Task 1.4: Connect the report form to the backend API.
+// DRMP-8 Sub Task 2.1: Create a form component for casualty details.
+// DRMP-9 Sub Task 2.2: Connect the casualty record form to the backend API.
+// DRMP-10 Sub Task 2.3: Update and edit the casualty list.
+// DRMP-11 Sub Task 2.4: Save casualty list with the incident report.
+// DRMP-14 Sub Task 3.1: Add an upload button for photos.
+// DRMP-12 Sub Task 3.1: Add an upload button for photos.
+// DRMP-15 Sub Task 3.2: Allow access to device storage or camera.
+// DRMP-16 Sub Task 3.3: Limit file size to 10MB each.
+// DRMP-17 Sub Task 3.4: Save files with uploaded date and time.
+// DRMP-22 Sub Task 4.1: Create a form component for asset registration.
+// DRMP-23 Sub Task 4.2: Add a dropdown menu for asset type and quantity.
+// DRMP-24 Sub Task 4.3: Connect the registration form to the backend API.
+// DRMP-25 Sub Task 5.1:  Record the assigned assets to each incident.
+// DRMP-26 Sub Task 5.2: Update asset quantity and availability status.
+// DRMP-27 Sub Task 5.3: Show an error message if quantity exceeds availability.
+// DRMP-28 Sub Task 5.4: Predict required assets based on incident type.
+// DRMP-29 Sub Task 6.1: Add GPS location detection.
+// DRMP-30 Sub Task 6.2: Update asset location in real-time.
+// DRMP-33 Sub Task 7.1: Create a server function to send updates.
+// DRMP-34 Sub Task 7.2: Send a notification when incident or asset data changes.
+// DRMP-35 Sub Task 7.3: Restrict update access to authorised users.
+// DRMP-40 Sub Task7.4: Push updated incident and resource data to clients.
+// DRMP-37 Sub Task 8.1: Connect the client to the live update server.
+// DRMP-38 Sub Task 8.2: Show incoming updates on the screen.
+// DRMP-39 Sub Task 8.3: Send a notification when the connections is unstable or lost.
+// DRMP-44 Sub Task 9.1: Create a form to enter donation details.
+// DRMP-45 Sub Task 9.2: Show an error message if any required are empty.
+// DRMP-46 Sub Task 9.3: Update the donation list for asset management.
+// DRMP-47 Sub Task 9.4: Connect the donation list to the backend API.
+// DRMP-49 Sub Task 10.1: Create a form to record where the donation was allocated.
+// DRMP-50 Sub Task 10.2: Update donation stock after allocation.
+// DRMP-51 Sub Task 10.3: Share allocated item details with the donor.
+// DRMP-52 Sub Task 10.4: Connect the tracked usage data to the backend API.
